@@ -33,7 +33,7 @@ nav  ul {
 }
 
 nav li {
-    display: inline-block;
+    display: inline-flex;
     
 
 }
@@ -64,5 +64,4 @@ li a {
     color: white;
     font-size: large;
     font-weight: 700;
-    padding:;
 }
